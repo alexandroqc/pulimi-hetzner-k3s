@@ -1,0 +1,6 @@
+name: hetzner-k3s
+runtime:
+  name: python
+  options:
+    virtualenv: venv-k3s
+description: A minimal Python Pulumi program
